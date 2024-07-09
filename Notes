@@ -1,0 +1,21 @@
+## Pandas Notes
+###  Python Libraries for Data Analytics - Pandas
+
+# What is pandas?
+
+- Pandas is a powerful open-source data analysis and manipulation library for Python.
+  adds data structures and tools designed to work with table-like data
+
+- provides tools for data manipulation: reshaping, merging, sorting, slicing, aggregation etc.
+ allows handling missing data
+
+- two main structures used by pandas; data frames and series
+
+# Basic operations
+
+1. Loading data
+2. Creating data frames
+3. Dealing with and iterating over rows and columns
+4. Indexing and selecting data
+5. Working with missing data
+6. Working with series
